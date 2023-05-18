@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+	int d,c;
+	for(d=5;d>=1;d++)
+	{
+	   for(c=d;c<=5;c++)
+	   {
+	      printf("%d,d);
+	   }
